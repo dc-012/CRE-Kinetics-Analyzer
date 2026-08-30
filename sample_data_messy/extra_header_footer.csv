@@ -1,0 +1,13 @@
+Experiment Log - Batch Reactor Run 7
+Recorded by: J. Smith, 2024-03-01
+
+Time (min),Concentration (mol/L)
+0,10.0
+15,7.5
+30,5.6
+45,4.2
+60,3.1
+75,2.4
+
+Notes: sample degraded slightly after run; k estimate not reliable past 75 min
+Average dC/dt = -0.09 mol/L/min
